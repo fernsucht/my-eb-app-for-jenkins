@@ -110,11 +110,11 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Привет, Олечка!</h1>
+    <h1>Privet, Olechka!!</h1>
   </div>
   
   <div class="linksColumn"> 
-    <h2>Как дела?</h2>
+    <h2>Kak dela?</h2>
   </div>
 </body>
 </html>
